@@ -1,6 +1,6 @@
 This project is licensed under the Mozilla Public License 2.0.
-It includes code from the PyWhy project, which is licensed under the MIT License.
-See `causal_plots.py` for details.
+It includes code from the PyWhy project, as well as from the shapflow project, which are licensed under the MIT License.
+See `causal_plots.py` in *SCM* as well as `flow_adapted.py` in *shapley-flow* for details.
 
 The project is split into two parts `SCM` and `shapley-flow`. 
 Both parts need different environments. 
