@@ -1,5 +1,6 @@
 '''
-This file contains an adapted implementation of the Shapley Flow algorithm (Author: Jiaxuan Wang)
+This file contains an adapted implementation of *shapflow* (https://pypi.org/project/shapflow/ - Author: Jiaxuan Wang), which is presented in 
+https://proceedings.mlr.press/v130/wang21b/wang21b.pdf, for the code see https://github.com/nathanwang000/Shapley-Flow. 
 
 Modified functions: "build_feature_graph" in Graph class in order to calculate the R^2 scores, 
 and "credit2dot_pygraphviz", "credit2dot_graphviz", "credit2dot" and "viz_graph" in CreditFlow class for modified visualization of the graph 

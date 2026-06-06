@@ -1,9 +1,8 @@
-from flow_adapted import GraphExplainer, node_dict2str_dict 
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-from flow_adapted import FlowDefaultDict
+from flow_adapted import GraphExplainer, node_dict2str_dict, FlowDefaultDict
 from collections import defaultdict
 from collections.abc import Iterable
 from pygraphviz import AGraph  
