@@ -1,0 +1,15 @@
+dill==0.4.1
+graphviz==0.21
+matplotlib==3.10.8
+multiprocess==0.70.19
+numpy==2.4.2
+pandas==3.0.0
+pytorch_lightning==2.6.1
+scikit_learn==1.8.0
+seaborn==0.13.2
+shap==0.50.0
+shapflow==0.0.1
+torch==2.10.0
+torchmetrics==1.8.2
+tqdm==4.67.2
+xgboost==3.1.3

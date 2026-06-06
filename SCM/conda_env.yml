@@ -1,0 +1,26 @@
+name: structural_causal_model
+channels:
+  - conda-forge
+dependencies:
+  - pip=25.0.1
+  - python=3.10.16
+  - pip:
+      - cmasher==1.9.2
+      - dowhy==0.14
+      - entsoe-py==0.7.8
+      - fiona==1.10.1
+      - geojson-rewind==1.2.1
+      - geopandas==1.1.1
+      - jupyter==1.1.1
+      - numpy==2.2.6
+      - openmeteo-requests==1.7.4
+      - openpyxl==3.1.5
+      - plotly==6.5.0
+      - python-dotenv==1.2.1
+      - requests-cache==1.2.1
+      - retry-requests==2.0.0
+      - scikit-learn==1.7.2
+      - seaborn==0.13.2
+      - contextily==1.6.2
+      - xarray==2025.6.1
+      - cfgrib==0.9.15.1
